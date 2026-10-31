@@ -530,3 +530,7 @@ footer{border-top:1px solid var(--glass-border); padding:60px 0 26px; margin-top
 #loader {
   display: none !important;
 }
+[data-aos] {
+  opacity: 1 !important;
+  transform: none !important;
+}
